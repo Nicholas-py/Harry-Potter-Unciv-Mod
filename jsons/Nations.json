@@ -39,25 +39,24 @@
         "startIntroPart1":"Where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.",
         "startIntroPart2": "The Gryffindor House is known for its bravery, courage, and valiance in the face of danger. Do you have what it takes to lead the most noble of all the Houses?",
 
-        "declaringWar": "You have insulted my honour. Prepare for war.",
-		"attacked": "You've fallen into my trap.",
-		"defeated": "I congratulate you for your victory.",
-		"introduction": "Hello. I give you my warm greetings.",
-		"neutralHello": "Hello.",
-		"hateHello": "Oh, you're here again",
-		"tradeRequest": "The house of Gryffindor offers you this fair deal.",
-
+	"declaringWar": "The world will be more beautiful without you. Prepare for war.",
+		"attacked": "Fool! You will soon regret dearly! I swear it!",
+		"defeated": "You have won, congratulations. My service is now in your possession.",
+		"introduction": "Welcome, strange one.",
+		"neutralHello": "Why, hello.",
+		"hateHello": "Ugh, it's you.",
+		"tradeRequest": "Come forth, let us make a deal.",
         "outerColor": [ 3, 38, 59],
         "innerColor": [255,255,255],
 
 		"favoredReligion": "Christianity",
-		"uniqueName": "House of Courage",
+		"uniqueName": "House of Cunning",
 		"uniques": ["All newly-trained [Military] units [in your cities] receive the [Morale] promotion","No damage penalty for wounded units"],
-		"cities": ["Gryffindor Tower","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
+		"cities": ["Slytherin Dungeon","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
 			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
-        "spyNames": ["Harry", "Albus", "Neville", "James", "Lily", "Hermione", "Remus", "Sirius", "Dean", "Seamus"]
+        "spyNames": ["NotHarry", "Albus", "Neville", "James", "Lily", "Hermione", "Remus", "Sirius", "Dean", "Seamus"]
     },
 	{
 		"name": "Ravenclaw",
