@@ -1,38 +1,32 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"name": "Gryffindor",
+		"leaderName": "Minerva McGonagall",
+		"adjective": ["Gryffindorian"],
+		"preferredVictoryType": "Domination",
+		"personality": "Napoleon",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+        "startIntroPart1":"Where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.",
+        "startIntroPart2": "The Gryffindor House is known for its bravery, courage, and valiance in the face of danger. Do you have what it takes to lead the most noble of all the Houses?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+        "declaringWar": "You have insulted my honour. Prepare for war.",
+		"attacked": "You've fallen into my trap.",
+		"defeated": "I congratulate you for your victory.",
+		"introduction": "Hello. I give you my warm greetings.",
+		"neutralHello": "Hello.",
+		"hateHello": "Oh, you're here again",
+		"tradeRequest": "The house of Gryffindor offers you this fair deal.",
+
+        "outerColor": [ 3, 38, 59],
+        "innerColor": [255,255,255],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "House of Courage",
+		"uniques": ["All newly-trained [Military] units [in your cities] receive the [Morale] promotion","No damage penalty for wounded units"],
+		"cities": ["Gryffindor Tower","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
+			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
+			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
+			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"],
+        "spyNames": ["Harry", "Albus", "Neville", "James", "Lily", "Hermione", "Remus", "Sirius", "Dean", "Seamus"]
+    },
 ]
