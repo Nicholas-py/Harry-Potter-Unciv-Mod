@@ -31,13 +31,13 @@
     },
 	{
 		"name": "Slytherin",
-		"leaderName": "Minerva McGonagall",
-		"adjective": ["Gryffindorian"],
-		"preferredVictoryType": "Domination",
-		"personality": "Napoleon",
+		"leaderName": "Tom Riddle",
+		"adjective": ["Slytherinian"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Harun al-Rashid",
 
-        "startIntroPart1":"Where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.",
-        "startIntroPart2": "The Gryffindor House is known for its bravery, courage, and valiance in the face of danger. Do you have what it takes to lead the most noble of all the Houses?",
+        "startIntroPart1": "There is no good or evil. There is only power, and those too weak to seek it!",
+        "startIntroPart2": "Not the most noble of all the Houses?",
 
 	"declaringWar": "The world will be more beautiful without you. Prepare for war.",
 		"attacked": "Fool! You will soon regret dearly! I swear it!",
