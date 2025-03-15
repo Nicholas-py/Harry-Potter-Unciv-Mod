@@ -1,7 +1,7 @@
 [	
   {
-		"name": "Basilisk",
-		"unitType": "Gunpowder",
+	"name": "Basilisk",
+	"unitType": "Gunpowder",
 		"replaces": "Rifleman",
 		"uniqueTo": "Slytherin",
 		"movement": 2,
