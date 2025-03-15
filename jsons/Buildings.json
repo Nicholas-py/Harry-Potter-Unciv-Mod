@@ -24,6 +24,17 @@
         "requiredTech": "Construction",
         "quote": "'Do you know much about Hogsmeade?'- Hermione Granger."
     },
+	 {
+        "name": "Ollivander's",
+        "production": 2,
+	"greatPersonPoints": {"Great Engineer": 1},
+        "isWonder": true,
+        "uniques": [
+            "[+2 Gold, +1 Production, +1 Science] from [Forest] tiles [in this city]"
+        ],
+        "requiredTech": "Agriculture",
+        "quote": "'Curious... very curious....' - Garrick Ollivander"
+    },
       {
 		"name": "Secret Enclave",
 		"replaces": "Walls",
