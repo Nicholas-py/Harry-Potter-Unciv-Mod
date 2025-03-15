@@ -36,7 +36,7 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
-		"name": "Dumbledore's Army Training",
+		"name": "Dumbledore's Army Base",
 		"replaces": "Barracks",
 		"cost": 100,
 		"uniqueTo": "Gryffindor",
