@@ -31,6 +31,7 @@
         "isWonder": true,
         "uniques": [
             "[+1 Gold, +1 Production, +1 Science] from [Forest] tiles [in this city]"
+	    "[+3 Gold, +3 Production, +1 Science] from [Wandwood] tiles [in this city]"
         ],
         "requiredTech": "Mathematics",
         "quote": "'Curious... very curious....' - Garrick Ollivander"
