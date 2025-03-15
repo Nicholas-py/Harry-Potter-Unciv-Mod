@@ -1,19 +1,26 @@
 
 game.png
-size: 1024, 128
+size: 2048, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Breeders
   rotate: false
-  xy: 112, 4
+  xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Holodeck
   rotate: false
-  xy: 220, 4
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Secret Enclave
+  rotate: false
+  xy: 760, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -27,35 +34,42 @@ NationIcons/Aliens
   index: -1
 NationIcons/Gryffindor
   rotate: false
-  xy: 760, 4
+  xy: 976, 4
   size: 92, 100
   orig: 92, 100
   offset: 0, 0
   index: -1
 NationIcons/Hufflepuff
   rotate: false
-  xy: 328, 4
+  xy: 436, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Ravenclaw
   rotate: false
-  xy: 544, 4
+  xy: 652, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Slytherin
   rotate: false
-  xy: 652, 4
+  xy: 868, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Basilisk
+  rotate: false
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Phasers
   rotate: false
-  xy: 436, 4
+  xy: 544, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
