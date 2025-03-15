@@ -19,7 +19,7 @@
         "happiness": 3,
         "isWonder": true,
         "uniques": [
-            "[Wounded] Units adjacent to this city heal [15] HP per turn when healing"
+            "[Wounded] Units adjacent to this city heal [25] HP per turn when healing"
         ],
         "requiredTech": "Construction",
         "quote": "'Do you know much about Hogsmeade?'- Hermione Granger."
