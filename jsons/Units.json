@@ -17,7 +17,7 @@
         "name": "Novice Wizard",
         "unitType": "Archery",
 	"uniqueTo": "Gryffindor",
-	"replaces": "Crossbowman",
+	"replaces": "Composite Bowman",
         "movement": 2,
         "strength": 7,
         "rangedStrength": 16,
