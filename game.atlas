@@ -88,16 +88,16 @@ NationIcons/Slytherin
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileImprovementIcons/House Elf Home
+ResourceIcons/Hippogriff
   rotate: false
-  xy: 760, 4
+  xy: 436, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileResourceIcons/Hippogriff
+TileImprovementIcons/House Elf Home
   rotate: false
-  xy: 436, 4
+  xy: 760, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
