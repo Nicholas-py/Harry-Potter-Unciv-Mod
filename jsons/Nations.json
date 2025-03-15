@@ -51,7 +51,7 @@
 
 		"favoredReligion": "Taoism",
 		"uniqueName": "Sly Bargain",
-		"uniques": ["[+15]% [Production] [in all cities] <when at war>", "Instantly gain [100] [Gold] <upon declaring a defensive pact>" , "Instantly gain [100] [Gold] <upon declaring war with a major Civilization>"]
+		"uniques": ["[+15]% [Production] [in all cities] <when at war>", "Instantly gain [500] [Gold] <upon declaring a defensive pact>" , "Instantly gain [500] [Gold] <upon declaring war with a major Civilization> <after discovering [Civil Service]>"]
 		"cities": ["Slytherin Dungeon","Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
@@ -62,32 +62,32 @@
     },
 	{
 		"name": "Ravenclaw",
-		"leaderName": "Minerva McGonagall",
-		"adjective": ["Gryffindorian"],
-		"preferredVictoryType": "Domination",
-		"personality": "Napoleon",
+		"leaderName": "Luna Lovegood",
+		"adjective": ["of Ravenclaw"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Sejong",
 
         "startIntroPart1":"Where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.",
         "startIntroPart2": "The Gryffindor House is known for its bravery, courage, and valiance in the face of danger. Do you have what it takes to lead the most noble of all the Houses?",
 
-        "declaringWar": "You have insulted my honour. Prepare for war.",
-		"attacked": "You've fallen into my trap.",
-		"defeated": "I congratulate you for your victory.",
-		"introduction": "Hello. I give you my warm greetings.",
-		"neutralHello": "Hello.",
-		"hateHello": "Oh, you're here again",
-		"tradeRequest": "The house of Gryffindor offers you this fair deal.",
+        "declaringWar": "Good news for you! I declare war. Actually maybe not good",
+		"attacked": "Well, that wasn't very nice, was it?",
+		"defeated": "Please bring me back :=(",
+		"introduction": "Hi! Nice to meet you, let's be friends!",
+		"neutralHello": "Oh, who's this?",
+		"hateHello": "Can't you just leave me to study?",
+		"tradeRequest": "Wanna get some presents from me?",
 
-        "outerColor": [ 3, 38, 59],
-        "innerColor": [255,255,255],
+        "outerColor": [ 3, 56, 89],
+        "innerColor": [148,107,45],
 
-		"favoredReligion": "Christianity",
-		"uniqueName": "House of Courage",
-		"uniques": ["All newly-trained [Military] units [in your cities] receive the [Morale] promotion","No damage penalty for wounded units"],
-		"cities": ["Gryffindor Tower","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
-			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
-			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
-			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
+		"favoredReligion": "Confucianism",
+		"uniqueName": "Knowledge Finders",
+		"uniques": [],
+		"cities": ["Ravenclaw Tower","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
+			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
+			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
+			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"],
         "spyNames": ["Harry", "Albus", "Neville", "James", "Lily", "Hermione", "Remus", "Sirius", "Dean", "Seamus"]
     },
 	{
