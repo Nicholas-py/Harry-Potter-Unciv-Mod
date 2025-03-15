@@ -1,2 +1,17 @@
 [
+      {
+        "name": "Hogwarts Castle",
+        "culture": 3,
+        "science": 3,
+        "happiness": 3,
+        "isWonder": true,
+        "greatPersonPoints": {"Great Engineer": 1},
+        "uniques": [
+            "Gain a free [University] [in this city]",
+            "Gain a free [Castle] [in this city]",
+        ],
+        "requiredTech": "Education",
+        "quote": "'The truth. It is a beautiful and terrible thing, and should therefore be treated with caution.' - Albus Dumbledore."
+    },
+
 ]
