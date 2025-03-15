@@ -68,7 +68,7 @@
 	"cost": 40,
 	"obsoleteTech": "Iron Working",
 	"upgradesTo": "Swordsman",
-	"uniques": ["[-40]% Strength for enemy [All] units in adjacent [All] tiles"],
+	"uniques": ["[-40]% Strength for enemy [All] units in adjacent [All] tiles","May upgrade to [Spearman] through ruins-like effects"],
 	},
 	
 ]
