@@ -13,6 +13,18 @@
             "Generated on every [30] tiles <in [Hill] tiles>"
         ]
     },
+          {
+        "name": "Wandwood",
+        "resourceType": "Luxury",
+        "terrainsCanBeFoundOn": ["Forest","Jungle"],
+        "food": -1,
+        "production": 2,
+        "improvement": "Lumber Camp",
+        "uniques": [
+        "Generated on every [22] tiles <in [Forest] tiles>",
+        "Generated on every [22] tiles <in [Jungle] tiles>",
+        ]
+    },
   
 
 ]
