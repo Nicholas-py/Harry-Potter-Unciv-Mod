@@ -83,7 +83,7 @@
 
 		"favoredReligion": "Confucianism",
 		"uniqueName": "Knowledge Finders",
-		"uniques": [+1 Science] per [1] population [in your cities],
+		"uniques": ["[+1 Science] per [1] population [in your cities]"],
 		"cities": ["Ravenclaw Tower","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
