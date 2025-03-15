@@ -32,7 +32,7 @@
         "uniques": [
             "[+1 Gold, +1 Production, +1 Science] from [Forest] tiles [in this city]"
         ],
-        "requiredTech": "Agriculture",
+        "requiredTech": "Mathematics",
         "quote": "'Curious... very curious....' - Garrick Ollivander"
     },
       {
