@@ -24,4 +24,15 @@
         "requiredTech": "Construction",
         "quote": "'Do you know much about Hogsmeade?'- Hermione Granger."
     },
+      {
+		"name": "Secret Enclave",
+		"replaces": "Walls",
+		"cost": 65,
+		"uniqueTo": "Slytherin",
+		"cityStrength": 15,
+		"cityHealth": 150,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 ]
