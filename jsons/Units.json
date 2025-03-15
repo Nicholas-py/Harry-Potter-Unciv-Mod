@@ -13,5 +13,36 @@
     "uniques": ["Can move after attacking","Invisible to non-adjacent units"],
 		"attackSound": "shot"
 	},
-
+      {
+        "name": "Novice Wizard",
+        "unitType": "Archery",
+	"uniqueTo": "Gryffindor",
+	"replaces": "Crossbowman",
+        "movement": 2,
+        "strength": 7,
+        "rangedStrength": 16,
+        "cost": 75,
+        "requiredTech": "Construction",
+        "obsoleteTech": "Machinery",
+        "upgradesTo": "Crossbowman",
+	"promotions": ["Accuracy I", "Accuracy II", "Logistics"],
+        "attackSound": "arrow"
+    },
+	    {
+        "name": "Master Wizard",
+        "unitType": "Ranged Gunpowder",
+	"uniqueTo": "Gryffindor",
+	"replaces": "Gatling Gun",
+        "range": 2,
+        "movement": 2,
+        "strength": 30,
+        "rangedStrength": 50,
+        "cost": 225,
+	"promotions": ["Accuracy I", "Accuracy II", "Logistics"],
+        "requiredTech": "Industrialization",
+        "upgradesTo": "Machine Gun",
+        "obsoleteTech": "Ballistics",
+        "attackSound": "machinegun"
+    },
+	
 ]
