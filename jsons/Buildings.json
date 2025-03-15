@@ -47,4 +47,13 @@
        		 ],
        		 "requiredTech": "Bronze Working"
 		},
+		{
+		"name": "Star Tracker",
+		"replaces": "Observatory",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 50},
+		"requiredBuilding": "Library",
+		"requiredTech": "Astronomy"
+	},
 ]
