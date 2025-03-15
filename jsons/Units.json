@@ -58,5 +58,17 @@
 			"Must set up to attack","[-1] Sight", "Never appears as a Barbarian unit"],
 	"attackSound": "artillery"
 	},
+	 {
+        "name": "Mandrake",
+        "unitType": "Sword",
+	"uniqueTo": "Hufflepuff",
+	"replaces": "Warrior",
+	"movement": 2,
+	"strength": 8,
+	"cost": 40,
+	"obsoleteTech": "Iron Working",
+	"upgradesTo": "Swordsman",
+	"uniques": ["[-40]% Strength for enemy [All] units in adjacent [All] tiles"],
+	},
 	
 ]
