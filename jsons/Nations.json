@@ -17,8 +17,8 @@
 		"hateHello": "Oh, you're here again",
 		"tradeRequest": "The house of Gryffindor offers you this fair deal.",
 
-        "outerColor": [ 3, 38, 59],
-        "innerColor": [255,255,255],
+        "outerColor": [153, 26, 17],
+        "innerColor": [238,186,48],
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "House of Courage",
@@ -46,8 +46,8 @@
 		"neutralHello": "Why, hello.",
 		"hateHello": "Ugh, it's you.",
 		"tradeRequest": "Come forth, let us make a deal.",
-        "outerColor": [ 4, 42, 11],
-        "innerColor": [255,255,255],
+        "outerColor": [ 4, 66, 17],
+        "innerColor": [170,170,170],
 
 		"favoredReligion": "Taoism",
 		"uniqueName": "Sly Bargain",
