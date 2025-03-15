@@ -7,8 +7,6 @@
         "techRequired": "Trapping",
         "uniques": [
             "Tile provides yield without assigned population",
-            "[+1 Food] <after discovering [Civil Service]>",
-            "[+1 Production] <after discovering [Civil Service]>",
             "Cannot be built on [Hill] tiles",
             "Pillaging this improvement yields approximately [+20 Gold]"
         ]
