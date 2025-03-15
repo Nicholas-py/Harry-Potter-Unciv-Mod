@@ -11,16 +11,23 @@ BuildingIcons/Breeders
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Holodeck
+BuildingIcons/Hogwarts Castle
   rotate: false
   xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Holodeck
+  rotate: false
+  xy: 436, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Secret Enclave
   rotate: false
-  xy: 760, 4
+  xy: 868, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -34,28 +41,28 @@ NationIcons/Aliens
   index: -1
 NationIcons/Gryffindor
   rotate: false
-  xy: 976, 4
+  xy: 1084, 4
   size: 92, 100
   orig: 92, 100
   offset: 0, 0
   index: -1
 NationIcons/Hufflepuff
   rotate: false
-  xy: 436, 4
+  xy: 544, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Ravenclaw
   rotate: false
-  xy: 652, 4
+  xy: 760, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Slytherin
   rotate: false
-  xy: 868, 4
+  xy: 976, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -69,7 +76,7 @@ UnitIcons/Basilisk
   index: -1
 UnitIcons/Phasers
   rotate: false
-  xy: 544, 4
+  xy: 652, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
