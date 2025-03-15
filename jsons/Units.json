@@ -1,2 +1,17 @@
-[
+[	
+  {
+		"name": "Basilisk",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Slytherin",
+		"movement": 2,
+		"strength": 45,
+		"cost": 245,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+    "uniques": ["Can move after attacking","Invisible to non-adjacent units"],
+		"attackSound": "shot"
+	},
+
 ]
