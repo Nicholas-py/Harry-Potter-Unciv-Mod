@@ -37,7 +37,7 @@
 		"personality": "Harun al-Rashid",
 
         "startIntroPart1": "There is no good or evil. There is only power, and those too weak to seek it!",
-        "startIntroPart2": "Not the most noble of all the Houses?",
+        "startIntroPart2": "While it may be known for Dark wizards, that's not all Slytherin has to offer. It's a house of cunning, ambition, and refusing to accept what is offered. Do you think you can lead the house of schemers?",
 
 	"declaringWar": "The world will be more beautiful without you. Prepare for war.",
 		"attacked": "Fool! You will soon regret dearly! I swear it!",
@@ -49,9 +49,9 @@
         "outerColor": [ 4, 42, 11],
         "innerColor": [255,255,255],
 
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Taoism",
 		"uniqueName": "Sly Bargain",
-		"uniques": [],
+		"uniques": ["[+15]% Production [in all cities] <when at war>"],
 		"cities": ["Slytherin Dungeon","Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
