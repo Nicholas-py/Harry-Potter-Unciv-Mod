@@ -1,5 +1,5 @@
-# Unciv-mod-example
+# Harry Potter Unciv Mod
 
-An example mod for Unciv, that adds one new Civilization.
+Unciv is awesome, check it out here: (https://github.com/yairm210/Unciv/)
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+This is a mod to add the four hogwarts houses in, plus some wonders and stuff
