@@ -5,7 +5,7 @@
         "science": 3,
         "happiness": 3,
         "isWonder": true,
-        "greatPersonPoints": {"Great Engineer": 1},
+        "greatPersonPoints": {"Great Scientist": 1},
         "uniques": [
             "Gain a free [University] [in this city]",
             "Gain a free [Castle] [in this city]",
@@ -13,5 +13,15 @@
         "requiredTech": "Education",
         "quote": "'The truth. It is a beautiful and terrible thing, and should therefore be treated with caution.' - Albus Dumbledore."
     },
-
+            {
+        "name": "Hogsmeade",
+        "culture": 2,
+        "happiness": 3,
+        "isWonder": true,
+        "uniques": [
+            "[Wounded] Units adjacent to this city heal [15] HP per turn when healing"
+        ],
+        "requiredTech": "Construction",
+        "quote": "'Do you know much about Hogsmeade?'- Hermione Granger."
+    },
 ]
