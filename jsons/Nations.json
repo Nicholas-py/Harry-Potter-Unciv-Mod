@@ -83,7 +83,7 @@
 
 		"favoredReligion": "Confucianism",
 		"uniqueName": "Knowledge Finders",
-		"uniques": ["Gain a free [Library] [in all cities]", "Gain a free [Public School] [in all cities]"],
+		"uniques": ["Gain a free [Library] [in all cities]", "Gain a free [Public School] [in all cities] <after discovering [Astronomy]>"],
 		"cities": ["Ravenclaw Tower","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
