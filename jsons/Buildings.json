@@ -50,9 +50,10 @@
 		{
 		"name": "Star Tracker",
 		"replaces": "Observatory",
+		"uniqueTo": "Ravenclaw",
 		"maintenance": 2,
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 50},
+		"percentStatBonus": {"science": 33},
 		"requiredBuilding": "Library",
 		"requiredTech": "Astronomy"
 	},
