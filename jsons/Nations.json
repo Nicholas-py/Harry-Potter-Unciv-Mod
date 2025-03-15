@@ -78,8 +78,8 @@
 		"hateHello": "Can't you just leave me to study?",
 		"tradeRequest": "Wanna get some presents from me?",
 
-        "outerColor": [ 3, 56, 89],
-        "innerColor": [148,107,45],
+        "outerColor": [4, 52, 81],
+	"innerColor": [158, 121, 66],
 
 		"favoredReligion": "Confucianism",
 		"uniqueName": "Knowledge Finders",
