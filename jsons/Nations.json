@@ -41,7 +41,7 @@
 
 	"declaringWar": "The world will be more beautiful without you. Prepare for war.",
 		"attacked": "Fool! You will soon regret dearly! I swear it!",
-		"defeated": "You have won, congratulations. My service is now in your possession.",
+		"defeated": "You have won, congratulations. I know a loss when I see one.",
 		"introduction": "Welcome, strange one.",
 		"neutralHello": "Why, hello.",
 		"hateHello": "Ugh, it's you.",
@@ -97,27 +97,27 @@
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Ramkhamhaeng",
 
-        "startIntroPart1":"Where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.",
-        "startIntroPart2": "The Gryffindor House is known for its bravery, courage, and valiance in the face of danger. Do you have what it takes to lead the most noble of all the Houses?",
+        "startIntroPart1":"You might belong in Hufflepuff, where they are just and loyal, those patient Hufflepuffs are true and unafraid of toil.",
+        "startIntroPart2": "The house that's always overlooked, Hufflepuff, is not to be underestimated. Their loyalty, patience, and fair play will make them beloved by all. Will you do them justice?",
 
-        "declaringWar": "You have insulted my honour. Prepare for war.",
-		"attacked": "You've fallen into my trap.",
-		"defeated": "I congratulate you for your victory.",
-		"introduction": "Hello. I give you my warm greetings.",
+        "declaringWar": "I can't let you go on like this.",
+		"attacked": "What are you doing?.",
+		"defeated": "Goodbye, cruel world",
+		"introduction": "Hello. Nice to meet you!",
 		"neutralHello": "Hello.",
-		"hateHello": "Oh, you're here again",
-		"tradeRequest": "The house of Gryffindor offers you this fair deal.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Hey, let's trade!",
 
-        "outerColor": [ 3, 38, 59],
-        "innerColor": [255,255,255],
+        "outerColor": [ 247, 220, 12],
+        "innerColor": [0,0,0],
 
-		"favoredReligion": "Christianity",
-		"uniqueName": "House of Courage",
-		"uniques": ["All newly-trained [Military] units [in your cities] receive the [Morale] promotion","No damage penalty for wounded units"],
-		"cities": ["Gryffindor Tower","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
-			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
-			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
-			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
+		"favoredReligion": "Sikhism",
+		"uniqueName": "Taking Care of Friends",
+		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "[+100]% resources gifted by City-States", "Allied City-States provide [Happiness] equal to [100]% of what they produce for themselves"],
+		"cities": ["Hufflepuff, by the kitchens","Ottawa","Toronto","Montreal","Vancouver","Calgary","Edmonton","Quebec City","Winnipeg","Mississauga","Halifax",
+            "Saskatoon","Regina","Brampton","Hamilton","Fredericton","Laval","Surrey","Yellowknife","Whitehorse","Iqaluit",
+            "London","Victoria","Chilliwack","Markham","Windsor","Vaughan","Gatineau","Longueuil","St. John's","Burnaby",
+            "Kitchener","Richmond"],
         "spyNames": ["Harry", "Albus", "Neville", "James", "Lily", "Hermione", "Remus", "Sirius", "Dean", "Seamus"]
     }
 ]
