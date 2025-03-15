@@ -35,4 +35,16 @@
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
+	{
+		"name": "Dumbledore's Army Training",
+		"replaces": "Barracks",
+		"cost": 100,
+		"uniqueTo": "Gryffindor",
+        	"maintenance": 1,
+        	"uniques": [
+            	"New [Military] units start with [45] XP [in this city]",
+            	"Destroyed when the city is captured"
+       		 ],
+       		 "requiredTech": "Bronze Working"
+		},
 ]
