@@ -67,8 +67,8 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Sejong",
 
-        "startIntroPart1":"Where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.",
-        "startIntroPart2": "The Gryffindor House is known for its bravery, courage, and valiance in the face of danger. Do you have what it takes to lead the most noble of all the Houses?",
+        "startIntroPart1":"Wit Beyond Measure Is Man's Greatest Treasure.",
+        "startIntroPart2": "Founded by Rowena Ravenclaw, long ago, the Ravenclaw house is know for intelligence and creativity. Can yours prevail?",
 
         "declaringWar": "Good news for you! I declare war. Actually maybe not good",
 		"attacked": "Well, that wasn't very nice, was it?",
@@ -83,19 +83,19 @@
 
 		"favoredReligion": "Confucianism",
 		"uniqueName": "Knowledge Finders",
-		"uniques": [],
+		"uniques": [+1 Science] per [1] population [in your cities],
 		"cities": ["Ravenclaw Tower","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
 			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"],
-        "spyNames": ["Harry", "Albus", "Neville", "James", "Lily", "Hermione", "Remus", "Sirius", "Dean", "Seamus"]
+        "spyNames": ["Flitwick", "Lockheart", "Ollivander", "Cho", "Quirinus", "Trelawny", "Padma", "Xenophilius", "Millicent", "Penelope"]
     },
 	{
 		"name": "Hufflepuff",
-		"leaderName": "Minerva McGonagall",
-		"adjective": ["Gryffindorian"],
-		"preferredVictoryType": "Domination",
-		"personality": "Napoleon",
+		"leaderName": "Newt Scamander",
+		"adjective": ["Hufflepuffian"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Ramkhamhaeng",
 
         "startIntroPart1":"Where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.",
         "startIntroPart2": "The Gryffindor House is known for its bravery, courage, and valiance in the face of danger. Do you have what it takes to lead the most noble of all the Houses?",
