@@ -51,7 +51,7 @@
 
 		"favoredReligion": "Taoism",
 		"uniqueName": "Sly Bargain",
-		"uniques": ["[+15]% Production [in all cities] <when at war>"],
+		"uniques": ["[+15]% [Production] [in all cities] <when at war>"],
 		"cities": ["Slytherin Dungeon","Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
