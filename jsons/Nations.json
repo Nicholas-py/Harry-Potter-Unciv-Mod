@@ -113,7 +113,7 @@
 
 		"favoredReligion": "Sikhism",
 		"uniqueName": "Taking Care of Friends",
-		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "[+100]% resources gifted by City-States", "Allied City-States provide [Happiness] equal to [100]% of what they produce for themselves"],
+		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "[+100]% Happiness from luxury resources gifted by City-States", "Allied City-States provide [Happiness] equal to [100]% of what they produce for themselves"],
 		"cities": ["Hufflepuff, by the kitchens","Ottawa","Toronto","Montreal","Vancouver","Calgary","Edmonton","Quebec City","Winnipeg","Mississauga","Halifax",
             "Saskatoon","Regina","Brampton","Hamilton","Fredericton","Laval","Surrey","Yellowknife","Whitehorse","Iqaluit",
             "London","Victoria","Chilliwack","Markham","Windsor","Vaughan","Gatineau","Longueuil","St. John's","Burnaby",
