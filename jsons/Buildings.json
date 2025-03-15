@@ -30,7 +30,7 @@
 	"greatPersonPoints": {"Great Engineer": 1},
         "isWonder": true,
         "uniques": [
-            "[+2 Gold, +1 Production, +1 Science] from [Forest] tiles [in this city]"
+            "[+1 Gold, +1 Production, +1 Science] from [Forest] tiles [in this city]"
         ],
         "requiredTech": "Agriculture",
         "quote": "'Curious... very curious....' - Garrick Ollivander"
