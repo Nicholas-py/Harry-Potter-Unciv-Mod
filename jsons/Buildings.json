@@ -67,5 +67,5 @@
 		"percentStatBonus": {"science": 33},
 		"requiredBuilding": "Library",
 		"requiredTech": "Astronomy"
-	},
+	}
 ]
