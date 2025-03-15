@@ -27,28 +27,35 @@ NationIcons/Aliens
   index: -1
 NationIcons/Gryffindor
   rotate: false
-  xy: 652, 4
+  xy: 760, 4
   size: 92, 100
   orig: 92, 100
   offset: 0, 0
   index: -1
-NationIcons/Ravenclaw
+NationIcons/Hufflepuff
   rotate: false
-  xy: 436, 4
+  xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Slytherin
+NationIcons/Ravenclaw
   rotate: false
   xy: 544, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Slytherin
+  rotate: false
+  xy: 652, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Phasers
   rotate: false
-  xy: 328, 4
+  xy: 436, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
