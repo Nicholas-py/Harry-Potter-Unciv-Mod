@@ -1,0 +1,19 @@
+[
+  {
+    "name": "House Elf Home",
+    "uniqueTo": "Hufflepuff",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland"],
+        "food": 1,
+        "production": 1,
+        "turnsToBuild": 7,
+        "techRequired": "Trapping",
+        "uniques": [
+            "Must be next to [City Center]",
+            "[+1 Food] <after discovering [Civil Service]>",
+            "[+1 Production] <after discovering [Civil Service]>",
+            "Cannot be built on [Hill] tiles",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+        ]
+
+  }
+]
