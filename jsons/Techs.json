@@ -1,1 +1,9 @@
+[
+  {   "name": "Wands",
 
+    "columnNumber": 3,
+      "row": 3,
+    "prerequisites": ["Writing"],
+      "quote": "'The wand chooses the wizard' - Gerrick Ollivander"
+  }
+]
