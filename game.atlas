@@ -27,7 +27,7 @@ BuildingIcons/Holodeck
   index: -1
 BuildingIcons/Secret Enclave
   rotate: false
-  xy: 1084, 4
+  xy: 1192, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -41,7 +41,7 @@ NationIcons/Aliens
   index: -1
 NationIcons/Gryffindor
   rotate: false
-  xy: 1300, 4
+  xy: 1408, 4
   size: 92, 100
   orig: 92, 100
   offset: 0, 0
@@ -55,19 +55,26 @@ NationIcons/Hufflepuff
   index: -1
 NationIcons/Ravenclaw
   rotate: false
-  xy: 976, 4
+  xy: 1084, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Slytherin
   rotate: false
-  xy: 1192, 4
+  xy: 1300, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileImprovementIcons/House Elf Home
+  rotate: false
+  xy: 544, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/House Elf Home
   rotate: false
   xy: 544, 4
   size: 100, 100
@@ -88,9 +95,23 @@ UnitIcons/Lovegoodian Contraption
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+UnitIcons/Master Wizard
   rotate: false
   xy: 868, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Novice Wizard
+  rotate: false
+  xy: 868, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Phasers
+  rotate: false
+  xy: 976, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
