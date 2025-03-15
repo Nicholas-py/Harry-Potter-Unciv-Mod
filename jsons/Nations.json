@@ -120,4 +120,65 @@
             "Kitchener","Richmond"],
         "spyNames": ["Cedric", "Sprout", "Hannah", "Susan", "Ernie", "Justin", "Kettleburn", "Nymphadora", "Eleanor", "Zacharias"]
     }
+
+	{
+		"name": "Beauxbatons",
+		"adjective": ["Beauxbatonian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "So this is how it feels to die...",
+		"outerColor": [0, 0, 0],
+        "innerColor": [168, 222, 255],
+		"cities": ["Beauxbatons"]
+	},
+		{
+		"name": "Durmstrang",
+		"adjective": ["Durmstrangian"],
+		"cityStateType": "Military",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps now we will find peace in death...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [204,102,0],
+		"cities": ["Durmstrang"]
+	},
+		{
+		"name": "Ministry of Magic",
+		"adjective": ["Ministerial"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,255,0],
+		"cities": ["Ministry of Magic"]
+	},
+			{
+		"name": "Godric's Hollow",
+		"adjective": ["Hollowian"],
+		"cityStateType": "Cultural",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 205, 135],
+		"cities": ["Godric's Hollow"]
+	},
+				{
+		"name": "Diagon Alley",
+		"adjective": ["Diagonian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [205, 176, 255],
+		"cities": ["Diagon Alley"]
+	},
 ]
